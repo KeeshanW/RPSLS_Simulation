@@ -9,6 +9,11 @@ Is there a strategy for increasing the odds of winning at Rock, Paper, Scissors?
 
 Which option results in a higher win rate? 
 
+
+After 100,000 simulations, the win rate vs. randomly guessing for:
+    RPS: 33% --> 50%
+    RPSLS: 40% --> 57%
+
 The strategy was based on a paper by Wang, et al. where exprimental evidence was gathered to support how evolutionary game theory can be used to describe the dynamical behavior of the classic Rock, Paper, Scissor game. They observed that winners tend to repeat the action that resulted in a win, and randomly choose a new option if they lost on the previous round.
 
 This project was inspired by Numberphile's video on YouTube: Winning at Rock Paper Scissors - Numberphile
