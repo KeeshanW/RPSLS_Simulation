@@ -1,5 +1,5 @@
 # RPSLS_Simulation
-Is there a strategy for increasing the odds of winning at Rock, Paper, Scissors? If so, does it also work for Rock, Paper, Scissors, Lizard, Spock?
+Is there a strategy for increasing the odds of winning at Rock, Paper, Scissors? If so, does it also work for Rock, Paper, Scissors, Lizard, Spock? I think there is!
 
 1. Calculate the odds of wining if both you (the player) and your opponent randomly guess for every round.
 2. Calculate the odds of wining if you apply the following stategy:
